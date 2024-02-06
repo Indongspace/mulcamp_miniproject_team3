@@ -17,11 +17,11 @@
   - 정혜원(팀장) : 깃허브 주소~
   - 이형주 : 깃허브 주소~
 #### 개발팀
-  - 김영기 : 깃허브 주소~
-  - 최진혁 : 깃허브 주소~
+  - 김영기 : [깃허브 주소~](https://github.com/Y0un9Ki)
+  - 최진혁 : [깃허브 주소~](https://github.com/j2nhyeok)
 #### 기획팀
-  - 안 별 : 깃허브 주소~
-  - 송인동 : 깃허브 주소~
+  - 안 별 : [깃허브 주소~](https://github.com/Byeol12341)
+  - 송인동 : [깃허브 주소~](https://github.com/Indongspace)
 
 <br>
 
