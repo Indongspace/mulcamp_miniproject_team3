@@ -15,7 +15,7 @@
 ## 팀원 소개
 #### 분석팀
   - 정혜원(팀장) : 깃허브 주소~
-  - 이형주 : 깃허브 주소~
+  - 이형주 : https://github.com/honolulu12321
 #### 개발팀
   - 김영기 : https://github.com/Y0un9Ki
   - 최진혁 : https://github.com/j2nhyeok
