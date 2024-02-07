@@ -14,7 +14,7 @@
 
 ## 팀원 소개
 #### 분석팀
-  - 정혜원(팀장) : 깃허브 주소~
+  - 정혜원(팀장) : https://github.com/gookoc
   - 이형주 : https://github.com/honolulu12321
 #### 개발팀
   - 김영기 : https://github.com/Y0un9Ki
@@ -34,7 +34,7 @@
 
 ## 데모페이지
 - Streamlit에서 구현한 Demo는 다음과 같습니다.
-  + https:// 배포된 주소 .streamlit.app/
+  + https://myd5m9cfvui94skjzhvtsa.streamlit.app/
 
  ## 주요 기능
  - 본 프로젝트에서 활용한 주요 메서드는 다음과 같습니다.
@@ -64,6 +64,23 @@ radio() #우리가 설정해놓은 여러 선택지를 선택할수있게 해준
 #Sidebar로 사이드바를 추가후 데코레이션을 사용해서 연속적으로 변하게 만들어줌
 # 'https://github.com/blackary/st_pages'라는 라이브러리를 사용해서 우리가 원하는 선택지를 선택할시 main화면에 화면을 띄워줌 여기에 다양한 코트를 보는 예시가 존재
 ```
+<br>
+
+* 프로젝트의 폴더 및 파일 설명
+
+| Folder/Files | Description |
+|---|---|
+|images|홈화면에 배치한 이미지 폴더|
+|pages|Streamlit 사이드바 목록 페이지 폴더|
+|김포데이터|김포시 부동산 데이터 폴더|
+|서울전체|서울특별시 부동산 데이터 폴더|
+|analysis(매매).ipynb|서울/김포 매매 분석 코드|
+|analysis(전월세)|서울/김포 전월세 분석 코드|
+|app.py|Streamlit 구현 코드|
+|data_collect.ipynb|부동산 데이터 수집 코드|
+|data_split.ipynb|수집한 데이터 중 필요한 부분 분할 및 병합 코드|
+|requirements.txt|필요 라이브러리 기술 ('pip install -r requirements.txt' : 설치 명령어)|
+|게시판.db|건의사항 저장 Database|
 
 <br>
 
